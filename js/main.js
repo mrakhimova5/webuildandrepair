@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 submitBtn.style.backgroundColor = '#059669';
                 
                 setTimeout(() => {
-                    alert('Thank you! We\'ll contact you within 24 hours with your free estimate. Call (818) 736-1418 for immediate assistance.');
+                    alert('Thank you! We\'ll contact you within 24 hours with your free estimate. Call 310 696 6924 for immediate assistance.');
                     this.reset();
                     submitBtn.textContent = originalText;
                     submitBtn.style.backgroundColor = '';
